@@ -18,3 +18,13 @@ li {
     margin-bottom: 5px;
   }
   
+  nav{
+      text-align:center;
+      font-size: 36px;
+      font-weight: bold;
+  }
+
+  .thumbnail{
+      height: 50px;
+      width: auto;
+  }
